@@ -393,7 +393,7 @@ aside .btn{
 	background: #05050575;
 	display: none;
 }
-.first_screen_home {
+.first_screen_home.first_screen {
 	min-height: 800px;
 	position: relative;
 	z-index: 1;
