@@ -761,7 +761,7 @@ footer a {
 	margin-top: 20px;
 }
 .many_reviews {
-	flex: 4;
+	flex: 9 1 auto;
 	}
 	.rf_div_wrap {
     flex: auto;
